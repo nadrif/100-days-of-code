@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: October 08, 2018
-##### (delete me or comment me out)
 
 **Today's Progress**: Started 100 days of code. researched. 
 
