@@ -18,8 +18,9 @@ Codecademy
 
 
 
-### Day 2: October 03, 2018, Wednesday
+### Day 3: October 10, 2018, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed the JSX class in CodeCamp. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** This seems somehow more straightforward than Angular, but more to come. 
+
